@@ -1,5 +1,5 @@
 ### PyClicker
-This app automates fishing in Ragnarok Online X (ROX). It works by looking at the fishing button circle and detects the green glow which triggers the mouse click. 
+This app automates fishing in some mobile game. It works by looking at the fishing button circle and detects the green glow which triggers the mouse click. 
 
 This app can also be modified to automate other similar tasks.
 
